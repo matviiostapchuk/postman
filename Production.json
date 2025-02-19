@@ -1,0 +1,15 @@
+{
+	"id": "2e441d87-4818-4304-bddb-0647872c4fe2",
+	"name": "Production",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://qauto.forstudy.space/api",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-02-19T09:38:07.426Z",
+	"_postman_exported_using": "Postman/11.32.1"
+}
